@@ -1,0 +1,54 @@
+.about {
+    background-image: url('../../public/bg-section.jpg');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+    z-index: -5;
+}
+
+.aaaa::before {
+    content: '';
+    z-index: -1;
+    transform: translate(-20px, -20px);
+    position: absolute;
+    background-color: transparent;
+    border: 2px solid #eb3007;
+    width: 95%;
+    height: 95%;
+}
+
+.aaaa {
+    padding: 20px 0 0 20px;
+}
+
+.aaaa img {
+    border: 8px solid rgba(0, 0, 0, 0.1);
+}
+
+.img-about {
+    width: 340px;
+    right: -320px;
+    bottom: -140px;
+    position: absolute;
+}
+
+.animat {
+    animation-delay: 0.5s;
+    animation-duration: 1s;
+    animation-name: imga;
+    animation-fill-mode: both;
+}
+
+@keyframes imga {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}

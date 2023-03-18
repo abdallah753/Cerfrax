@@ -1,0 +1,13 @@
+.chef {
+    background-image: url('../../public/bg-section.jpg');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+}
+
+@media (min-width: 992px) {
+    .kkk {
+        margin: 0 -25px 0 0;
+    }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "titel": "Garden Salad",
+        "ingredients": "MIXED FIELD GREENS, CUCUMBERS, AND TOMATOES",
+        "price": "9",
+        "type": "spechial"
+    },
+    {
+        "titel": "Real Mashed Potatoes",
+        "ingredients": "MASHED POTATOES WITH HOMEMADE GRAVY AND VEGGIES",
+        "price": "19",
+        "type": "spechial"
+    },
+    {
+        "titel": "Turkey Pot Pie",
+        "ingredients": "HOMEMADE ROAST TURKEY AND VEGGIES, SALAD",
+        "price": "32",
+        "type": "spechial"
+    },
+    {
+        "titel": "California BLT",
+        "ingredients": "AVOCADO, CRISPY ICEBERG LETTUCE AND ROMA TOMATOES",
+        "price": "75",
+        "type": "spechial"
+    },
+    {
+        "titel": "Vegetarian Sandwich",
+        "ingredients": "MUTTON, SALAD, DOSHA, BUTTER, STRIPS",
+        "price": "86",
+        "type": "spechial"
+    },
+    {
+        "titel": "Seared Scallops",
+        "ingredients": "JUICE LEMONS, CAPERS, HEAT PAN, SCALLOPS",
+        "price": "89",
+        "type": "spechial"
+    },
+    {
+        "titel": "Bissell Breakfast",
+        "ingredients": "TWO EGGS, BACON, TOAST, HASHBROWNS OR GRITS",
+        "price": "22",
+        "type": "spechial"
+    },
+    {
+        "titel": "Chicken and Waffle",
+        "ingredients": "CHICKEN AND A BELGIAN WAFFLE WITH A SWEET",
+        "price": "53",
+        "type": "spechial"
+    },
+    {
+        "titel": "Francisco Benedictf",
+        "ingredients": "CANADIAN BACON, SLICED AVOCADO, AND TOMATO.",
+        "price": "73",
+        "type": "spechial"
+    },
+    {
+        "titel": "Cake Benedictc",
+        "ingredients": "TWO POACHED EGGS AND HOMEMADE CRAB CAKES.",
+        "price": "87",
+        "type": "spechial"
+    },
+    {
+        "titel": "Protein Breakfast",
+        "ingredients": "BACON, SAUSAGE PATTIES, SAUSAGE LINKS, TURKEY",
+        "price": "99",
+        "type": "spechial"
+    },
+    {
+        "titel": "Grilled Zucchini",
+        "ingredients": "MEDIUM ZUCCHINI, SLICED LENGTHWISE, RED PEPPER",
+        "price": "67",
+        "type": "spechial"
+    }
+]

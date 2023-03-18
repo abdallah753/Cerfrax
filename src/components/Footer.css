@@ -1,0 +1,14 @@
+.foot {
+    background-image: url('../../public/black_twill.png');
+    background-position: center top;
+    background-color: #000;
+    padding: 70px 0;
+}
+
+.fooot {
+    padding: 15px;
+    background-color: #000;
+    color: #eee;
+    border-top: 1px solid #dee2e6;
+
+}

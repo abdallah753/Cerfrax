@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
+.bg-red {
+    background-color: #eb3007;
+}
+
+.btn-red:hover {
+    border: 2px solid #eb3007;
+    color: #eb3007;
+}
+
+.text-e {
+    color: #eee;
+}
+
+.text-f {
+    color: #fff;
+}
+
+.btn-red {
+    background-color: #eb3007;
+    color: #eee;
+    font-weight: bold;
+}
+
+.text-red {
+    color: #eb3007;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.z-index-5 {
+    z-index: 5;
+}

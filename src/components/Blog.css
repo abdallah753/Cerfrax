@@ -1,0 +1,24 @@
+.blog {
+    background-image: url('../../public/bg-section.jpg');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+}
+
+.card:hover img {
+    transform: scale(1.15);
+}
+
+.card img {
+    transition-duration: 0.34s;
+}
+
+.after-blog {
+    background-image: url('../../public/bg-catering.jpg');
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 70px 0;
+}

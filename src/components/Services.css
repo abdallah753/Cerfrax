@@ -1,0 +1,25 @@
+.services {
+    background-image: url('../../public/bg4.jpg');
+    background-size: cover;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 70px 0;
+}
+
+.img {
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    border: 2px solid #eb3007;
+    transition-duration: 0.5s;
+}
+
+.px-15 {
+    padding: 0 15px;
+}
+
+.services-item:hover .img {
+    background-color: #eb3007;
+}

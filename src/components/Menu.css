@@ -1,0 +1,46 @@
+.menu {
+    background-image: url('../../public/bg-section.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    padding: 70px 0;
+    overflow: hidden;
+}
+
+.menu-img {
+    left: -505px;
+    top: -170px;
+}
+
+.animatt {
+    animation-duration: 0.8s;
+    animation-name: animationy;
+    animation-fill-mode: both;
+}
+
+@keyframes animationy {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate3d(100%, 0, 0);
+    }
+}
+
+.after-menu {
+    background-image: url('../../public/delicious-back-img.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+}
+
+@media (min-width: 992px) {
+    .ooo {
+        margin-left: -125px;
+        width: 50%;
+    }
+}
